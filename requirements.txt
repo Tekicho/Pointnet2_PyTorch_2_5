@@ -8,4 +8,4 @@ pytorch-lightning==0.7.1
 
 #./pointnet2_ops_lib/.
 
-"git+git://github.com/erikwijmans/Pointnet2_PyTorch.git#egg=pointnet2_ops&subdirectory=pointnet2_ops_lib"
+"git+git://github.com/Tekicho/Pointnet2_PyTorch_2_5.git#egg=pointnet2_ops&subdirectory=pointnet2_ops_lib"
